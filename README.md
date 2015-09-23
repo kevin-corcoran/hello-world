@@ -1,3 +1,3 @@
 # hello-world
 Just another repository
-Following this instructional setup thing. might do something later
+Following this instructional setup thing.
